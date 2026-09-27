@@ -1,0 +1,117 @@
+[
+  {
+    "id": "seed-1",
+    "title": "Unit II Notes — Binary Trees",
+    "description": "Academic material distributed through CLASSORA.",
+    "type": "notes",
+    "subjectId": "CSE301",
+    "subject": "Data Structures",
+    "department": "CSE",
+    "semester": "3",
+    "teacherId": "T001",
+    "teacher": "Dr. Sharma",
+    "filePath": "",
+    "filename": "unit-ii-notes-binary-trees.pdf",
+    "size": 0,
+    "createdAt": "2026-09-27T20:11:56.542Z",
+    "targets": [
+      {
+        "department": "CSE",
+        "semester": "3",
+        "section": "E"
+      }
+    ]
+  },
+  {
+    "id": "seed-2",
+    "title": "NumPy Basics",
+    "description": "Academic material distributed through CLASSORA.",
+    "type": "notes",
+    "subjectId": "CSE302",
+    "subject": "Python Programming",
+    "department": "CSE",
+    "semester": "3",
+    "teacherId": "T002",
+    "teacher": "Prof. Das",
+    "filePath": "",
+    "filename": "numpy-basics.pdf",
+    "size": 0,
+    "createdAt": "2026-09-26T20:11:56.542Z",
+    "targets": [
+      {
+        "department": "CSE",
+        "semester": "3",
+        "section": "E"
+      }
+    ]
+  },
+  {
+    "id": "seed-3",
+    "title": "Relations and Sets",
+    "description": "Academic material distributed through CLASSORA.",
+    "type": "notes",
+    "subjectId": "CSE303",
+    "subject": "Discrete Mathematics",
+    "department": "CSE",
+    "semester": "3",
+    "teacherId": "T003",
+    "teacher": "Dr. Ahmed",
+    "filePath": "",
+    "filename": "relations-and-sets.pdf",
+    "size": 0,
+    "createdAt": "2026-09-25T20:11:56.542Z",
+    "targets": [
+      {
+        "department": "CSE",
+        "semester": "3",
+        "section": "E"
+      }
+    ]
+  },
+  {
+    "id": "seed-4",
+    "title": "Mid-Semester Examination Schedule",
+    "description": "Academic material distributed through CLASSORA.",
+    "type": "exam_routine",
+    "subjectId": "CSE301",
+    "subject": "Academic Office",
+    "department": "CSE",
+    "semester": "3",
+    "teacherId": "T004",
+    "teacher": "Administration",
+    "filePath": "",
+    "filename": "mid-semester-examination-schedule.pdf",
+    "size": 0,
+    "createdAt": "2026-09-24T20:11:56.542Z",
+    "targets": [
+      {
+        "department": "CSE",
+        "semester": "3",
+        "section": "E"
+      }
+    ]
+  },
+  {
+    "id": "seed-5",
+    "title": "DBMS Practical Sheet 04",
+    "description": "Academic material distributed through CLASSORA.",
+    "type": "practical",
+    "subjectId": "CSE305",
+    "subject": "Database Management Systems",
+    "department": "CSE",
+    "semester": "3",
+    "teacherId": "T005",
+    "teacher": "Dr. Singh",
+    "filePath": "",
+    "filename": "dbms-practical-sheet-04.pdf",
+    "size": 0,
+    "createdAt": "2026-09-23T20:11:56.542Z",
+    "targets": [
+      {
+        "department": "CSE",
+        "semester": "3",
+        "section": "E"
+      }
+    ]
+  }
+]
